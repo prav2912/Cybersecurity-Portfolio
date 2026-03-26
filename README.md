@@ -30,17 +30,16 @@ My goal is to combine my IT & management experience to move into Cybersecurity M
 ## 🔹 Portfolio Structure
 
 Cybersecurity-Portfolio/
-│
-├─ README.md
-├─ Projects/
-│   ├─ Vulnerability_Assessment_Nmap_Metsploitable/
-│   │   ├─ Report.pdf
-│   │   ├─ Screenshots/
-│   │   └─ Methodology.md
-│   └─ Risk_Assessment_Simulated_Bank/
-│       ├─ Report.pdf (once ready)
-│       ├─ Risk_Register.xlsx
-│       └─ Methodology.md
+    README.md
+    Projects/
+        Vulnerability_Assessment_Nmap_Metsploitable/
+            Report.pdf
+            Screenshots/
+            Methodology.md
+        Risk_Assessment_Simulated_Bank/
+            Report.pdf (once ready)
+            Risk_Register.xlsx
+            Methodology.md
 
 ----
 
