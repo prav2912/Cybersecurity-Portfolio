@@ -23,3 +23,31 @@ My goal is to combine my IT & management experience to move into Cybersecurity M
 | Project | Description | Tools Used | Link |
 |---------|-------------|------------|------|
 | Vulnerability Assessment – Nmap & Metasploitable | Conducted a full vulnerability scan and generated risk analysis with actionable recommendations. | Nmap, Metasploitable | [View Project](./Projects/Vulnerability_Assessment_Nmap_Metsploitable) |
+| Risk Assessment – Simulated Bank | Performing risk assessment on a simulated banking environment, including risk identification, impact analysis, and mitigation planning. | Excel, Risk Analysis Frameworks | [View Project](./Projects/Risk_Assessment_Simulated_Bank) |
+
+---
+
+## 🔹 Portfolio Structure
+
+Cybersecurity-Portfolio/
+│
+├─ README.md
+├─ Projects/
+│ ├─ Vulnerability_Assessment_Nmap_Metsploitable/
+│ │ ├─ Report.pdf
+│ │ ├─ Screenshots/
+│ │ └─ Methodology.md
+│ └─ Risk_Assessment_Simulated_Bank/
+│ ├─ Report.pdf  
+│ ├─ Risk_Register.xlsx
+│ └─ Methodology.md
+
+----
+
+---
+
+## 🔹 How to Use This Portfolio
+
+- Explore each project folder for detailed **reports, screenshots, and methodology steps**.  
+- Projects showcase **hands-on security labs and risk assessment exercises**.  
+- Demonstrates both **technical capabilities** and **structured reporting**, preparing for **cybersecurity management roles**.
