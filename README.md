@@ -33,14 +33,14 @@ Cybersecurity-Portfolio/
 │
 ├─ README.md
 ├─ Projects/
-│ ├─ Vulnerability_Assessment_Nmap_Metsploitable/
-│ │ ├─ Report.pdf
-│ │ ├─ Screenshots/
-│ │ └─ Methodology.md
-│ └─ Risk_Assessment_Simulated_Bank/
-│ ├─ Report.pdf  
-│ ├─ Risk_Register.xlsx
-│ └─ Methodology.md
+│   ├─ Vulnerability_Assessment_Nmap_Metsploitable/
+│   │   ├─ Report.pdf
+│   │   ├─ Screenshots/
+│   │   └─ Methodology.md
+│   └─ Risk_Assessment_Simulated_Bank/
+│       ├─ Report.pdf (once ready)
+│       ├─ Risk_Register.xlsx
+│       └─ Methodology.md
 
 ----
 
