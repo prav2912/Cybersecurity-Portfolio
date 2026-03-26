@@ -17,3 +17,9 @@ My goal is to combine my IT & management experience to move into Cybersecurity M
 ## 🔹 Contact / Connect
 - LinkedIn: https://www.linkedin.com/in/praveen-somasekharan-46700b66/
 - Email: mail2prn@yahoo.co.in
+
+## 🔹 Projects Overview
+
+| Project | Description | Tools Used | Link |
+|---------|-------------|------------|------|
+| Vulnerability Assessment – Nmap & Metasploitable | Conducted a full vulnerability scan and generated risk analysis with actionable recommendations. | Nmap, Metasploitable | [View Project](./Projects/Vulnerability_Assessment_Nmap_Metsploitable) |
