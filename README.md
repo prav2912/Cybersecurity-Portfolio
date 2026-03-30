@@ -37,7 +37,7 @@ Cybersecurity-Portfolio/Projects/
             Methodology.md
         
         cybersecurity-banking-risk-assessment/
-            Report.pdf (once ready)
+            Report.pdf  
             evidence/
                     Risk_Register.xlsx
                     nmap scan snaphot
